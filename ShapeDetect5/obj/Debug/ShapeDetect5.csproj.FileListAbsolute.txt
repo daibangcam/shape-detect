@@ -1,0 +1,74 @@
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe.config
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.pdb
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csprojResolveAssemblyReference.cache
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Form1.resources
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Properties.Resources.resources
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.GenerateResource.Cache
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.exe
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.pdb
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.World.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\ZedGraph.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.xml
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.World.xml
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.GL.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.GL.xml
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\cvextern.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcp120.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcr120.dll
+E:\MicrocontrollDA\ShapeDetect5\ShapeDetect5\bin\Debug\opencv_ffmpeg310.dll
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\cvextern.dll
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcp120.dll
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcr120.dll
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\opencv_ffmpeg310.dll
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe.config
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.pdb
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.World.xml
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csprojAssemblyReference.cache
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Form1.resources
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Properties.Resources.resources
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.GenerateResource.cache
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.CopyComplete
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.exe
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.pdb
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\cvextern.dll
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcp120.dll
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcr120.dll
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\opencv_ffmpeg310.dll
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe.config
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.pdb
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.xml
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.World.xml
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csprojAssemblyReference.cache
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Form1.resources
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Properties.Resources.resources
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.GenerateResource.cache
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.CopyComplete
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.exe
+C:\Users\mole\Documents\Thái Bình Khương\tài liệu khóa luận\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.pdb
+C:\Users\mole\Downloads\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.CoreCompileInputs.cache
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\cvextern.dll
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcp120.dll
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\msvcr120.dll
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\opencv_ffmpeg310.dll
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe.config
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.exe
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\ShapeDetect5.pdb
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.xml
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.UI.GL.xml
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\bin\Debug\Emgu.CV.World.xml
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csprojAssemblyReference.cache
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Form1.resources
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.Properties.Resources.resources
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.GenerateResource.cache
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.CoreCompileInputs.cache
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.csproj.CopyComplete
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.exe
+D:\shareDA\shareDA\ShapeDetect5\ShapeDetect5\obj\Debug\ShapeDetect5.pdb
